@@ -1,0 +1,114 @@
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp\NikitoApp\obj\Debug\WindowsApplication1.Viernes.resources
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\obj\Debug\WindowsApplication1.Viernes.resources
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\NikitoApp - copia (2)\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\obj\Debug\WindowsApplication1.Viernes.resources
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\SAVEEEEE\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\obj\Debug\WindowsApplication1.Viernes.resources
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\1201\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\shpctac10083\Desktop\Tiniapp\NikitoApp\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\140417\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\0107\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\0107 - Copy\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\0107 - Copy\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\0107 - Copy\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\0107 - Copy\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\Nueva version\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\Tratando de optimizar\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\obj\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\bin\Debug\NikitoApp.exe.config
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\obj\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\obj\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\bin\Debug\NikitoApp.exe
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\bin\Debug\NikitoApp.pdb
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\bin\Debug\NikitoApp.xml
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\obj\Debug\NikitoApp.vbproj.GenerateResource.Cache
+C:\Users\Nicol\OneDrive\Desktop\vb\Tratando de optimizar - Copy\NikitoApp\obj\Debug\NikitoApp.exe

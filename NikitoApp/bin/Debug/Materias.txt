@@ -1,0 +1,95 @@
+30.02 - Máquinas Térmicas
+Comisión	Horarios	Profesores	Cupo
+A
+Miércoles 18:00 - 21:00 Aula externa: Virtual
+Celani, Vicente Fidel
+Martins, Claudio Pedro
+Mariano C., Francioni
+RIVERA PAREJAS, JULIÁN
+Costantini, Patricio
+19 / Ilimitado
+B
+Viernes 18:00 - 21:00 Aula externa: Virtual
+Celani, Vicente Fidel
+Martins, Claudio Pedro
+Mariano C., Francioni
+RIVERA PAREJAS, JULIÁN
+Costantini, Patricio
+35 / Ilimitado
+61.19 - Costos Industriales
+Comisión	Horarios	Profesores	Cupo
+AB
+Martes 19:00 - 22:00 Aula externa: Virtual
+López Sáez, José Ignacio
+Piantanida, Horacio
+Coccolo, Pablo Bartolome
+CARAMUTTI GODOY, MATHIAS RUBÉN
+Pose, Eduardo Francisco
+De Miguel, Benito Jose
+32 / Ilimitado
+22.10 - Electrónica e Instrumentación
+Comisión	Horarios	Profesores	Cupo
+AB
+Martes 14:00 - 18:00 Aula externa: Virtuaal
+Miércoles 12:00 - 14:00 Aula externa: Virtual
+Colombo, Sebastián Carlos
+Zuazquita, Ricardo Alberto
+Comastri, Hector Adolfo
+Baez, Eduardo Diocles
+39 / Ilimitado
+11.02 - Organización de la Producción II
+Comisión	Horarios	Profesores	Cupo
+ABC
+Jueves 17:00 - 20:00 Aula externa: Virtual
+Viernes 15:00 - 18:00 Aula externa: Virtual
+Rodriguez, Gustavo Eduardo
+Sánchez, Marcelo Fabián
+Löwi, Debora
+Lucioli, Mónica Susana
+Carola, Luis Federico
+32 / Ilimitado
+11.78 - Estadística Aplicada II
+Comisión	Horarios	Profesores	Cupo
+A
+Martes 11:00 - 14:00 Aula externa: Virtual
+Yajati, Sami Alan
+Bus, Ana Gabriela
+De Zan, Arturo T.
+36 / Ilimitado
+B
+Viernes 11:00 - 14:00 Aula externa: Virtual
+Bus, Ana Gabriela
+Bursky, Jorge Cesar Carlos
+De Zan, Arturo T.
+24 / Ilimitado
+C
+Miércoles 11:00 - 14:00 Aula externa: Virtual
+Bus, Ana Gabriela
+Bursky, Jorge Cesar Carlos
+De Zan, Arturo T.
+10 / Ilimitado
+11.79 - Sistemas y Modelos
+Comisión	Horarios	Profesores	Cupo
+ABC
+Lunes 19:00 - 22:00 Aula externa: Virtual
+Mur, Sebastián Matías
+40 / Ilimitado
+21.09 - Máquinas Eléctricas
+Comisión	Horarios	Profesores	Cupo
+AB
+Lunes 17:00 - 19:00 Aula externa: Virtual
+Jueves 20:00 - 22:00 Aula externa: Virtual
+Cerfoglio, Ernesto Luis
+Pingitore, Ricardo Alejandro
+28 / Ilimitado
+C
+Martes 16:00 - 18:00 Aula externa: Virtual
+Miércoles 17:00 - 19:00 Aula externa: Virtual
+Cerfoglio, Ernesto Luis
+Pingitore, Ricardo Alejandro
+7 / Ilimitado
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
